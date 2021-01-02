@@ -1,0 +1,38 @@
+
+a:link, a:visited
+{color: darkgreen;
+text-decoration: none;
+}
+
+table, td
+{border:0px;}
+
+td
+{padding: 10px;
+font-family: 'Coming Soon', cursive;
+text-align: justify;}
+
+h1
+{font-family: 'Nerko One', cursive;
+color:990099;
+font-size:45px;
+}
+
+h2
+{font-family: 'Coming Soon', cursive;
+font-size:24px;
+}
+
+h3
+{font-family: 'Arial', cursive;
+font-size:24px;
+}
+
+body
+{background-color: thistle;
+}
+
+p
+{font-family: 'Coming Soon', cursive;
+font-size:20px;
+text-align: justify;}
